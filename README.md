@@ -29,11 +29,18 @@ Territoire
 En 2021, l’Estrie passe de 89 à 118 communautés! L’ensemble du territoire de la région administrative de l’Estrie soit la Ville de Sherbrooke et les huit municipalités régionales de comté (MRC) suivantes :
 
 MRC du Granite
+
 MRC du Val-Saint-François
+
 MRC de Coaticook
+
 MRC des Sources
+
 MRC du Haut-Saint-François
+
 MRC de Memphrémagog
+
 MRC de la Haute-Yamaska
+
 MRC de Brome-Missisquoi
 
